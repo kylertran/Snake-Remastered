@@ -1,6 +1,8 @@
 # Snake Remastered
+![Snake Preview](preview.png)
 
-**Developed by Kyler Tran - 2019**
+**Copyright &copy; 2019 Kyler Tran**
+**All Rights Reserved**
 
 Snake Remastered is a modern rendition of the classic Snake game. With entirely new art and responsive controls, this game brings a fresh look and feel to the timeless challenge of growing your snake while avoiding your tail and walls.
 
@@ -19,5 +21,3 @@ Snake Remastered is a modern rendition of the classic Snake game. With entirely 
 
 For support, feedback, or inquiries, please contact:
 **Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
-
-Enjoy reliving the nostalgic moments with a modern twist in Snake Remastered!
