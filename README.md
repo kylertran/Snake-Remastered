@@ -18,4 +18,4 @@ Snake Remastered is a modern rendition of the classic Snake game. With entirely 
 
 ## Contact
 Kyler Tran  
-**Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
+**Email**: [contact@kylertran.com](mailto:contact@kylertran.com)
